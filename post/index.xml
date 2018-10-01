@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Post creation</title>
+      <link>/post/post-creation/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post-creation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My first blog</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -20,15 +29,6 @@
       <guid>/post/getting-started/</guid>
       <description>Some devellopement
 Albino Research Albino what is this,Albino in human and animals society,research about it...</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>/post/new-post-1/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/new-post-1/</guid>
-      <description>Test of description</description>
     </item>
     
   </channel>

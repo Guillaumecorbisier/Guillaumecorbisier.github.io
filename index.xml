@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Herbarium</title>
+      <link>/project/herbarium/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/herbarium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post creation</title>
+      <link>/post/post-creation/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post-creation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My project</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
@@ -43,16 +61,6 @@
 &lt;h2 id=&#34;albino-research&#34;&gt;Albino Research&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Albino what is this,Albino in human and animals society,research about it&lt;/strong&gt;...&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>/post/new-post-1/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/new-post-1/</guid>
-      <description>&lt;p&gt;Test of description&lt;/p&gt;
 </description>
     </item>
     
