@@ -59,6 +59,23 @@
     
     <url>
     
+      <loc>/post/new-post-1/</loc>
+      <lastmod>2018-09-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/new_post_1/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -126,7 +143,7 @@
     
     <url>
     
-      <loc>/tags/hugo/</loc>
+      <loc>/tags/nature/</loc>
       <lastmod>2018-09-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>

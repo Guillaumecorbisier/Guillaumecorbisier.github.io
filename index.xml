@@ -31,18 +31,28 @@
     </item>
     
     <item>
-      <title>Mon premier blog</title>
+      <title>My first blog</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
 
-&lt;p&gt;Le contenu ici&lt;/p&gt;
+&lt;p&gt;Some devellopement&lt;/p&gt;
 
-&lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
+&lt;h2 id=&#34;albino-research&#34;&gt;Albino Research&lt;/h2&gt;
 
-&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Albino what is this,Albino in human and animals society,research about it&lt;/strong&gt;...&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/post/new-post-1/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/new-post-1/</guid>
+      <description>&lt;p&gt;Test of description&lt;/p&gt;
 </description>
     </item>
     

@@ -13,13 +13,22 @@
     
     
     <item>
-      <title>Mon premier blog</title>
+      <title>My first blog</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
-      <description>Le contenu ici
-Un titre Du texte avec une partie en gras...</description>
+      <description>Some devellopement
+Albino Research Albino what is this,Albino in human and animals society,research about it...</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/post/new-post-1/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/new-post-1/</guid>
+      <description>Test of description</description>
     </item>
     
   </channel>
