@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/project/biologie-marine/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/example-project/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/post-creation/</loc>
       <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -33,15 +51,6 @@
     <url>
     
       <loc>/project/2018-10-01-herbarium/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-project/</loc>
       <lastmod>2018-09-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -96,8 +105,28 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>/tags/herbarium/</loc>
       <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/plants/</loc>
+      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -116,6 +145,7 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,7 +165,17 @@
     <url>
     
       <loc>/tags/biology/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/marin/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -155,7 +195,7 @@
     <url>
     
       <loc>/tags/science/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
