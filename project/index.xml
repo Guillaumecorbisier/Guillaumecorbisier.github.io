@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Guillaume Corbisier (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Bio marine</title>
-      <link>/project/biologie-marine/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/biologie-marine/</guid>
-      <description>Test test test...</description>
-    </item>
     
     <item>
       <title>My project</title>
@@ -37,7 +28,7 @@
       
       <guid>/project/2018-10-01-herbarium/</guid>
       <description>Here I describe my project using Markdown formatting...
-Test de commentaire</description>
+Test de commentaire voila</description>
     </item>
     
   </channel>

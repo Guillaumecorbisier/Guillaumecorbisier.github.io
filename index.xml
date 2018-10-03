@@ -11,16 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bio marine</title>
-      <link>/project/biologie-marine/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/biologie-marine/</guid>
-      <description>&lt;p&gt;Test test test...&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>My project</title>
       <link>/project/example-project/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
@@ -48,7 +38,7 @@
       <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./project/2018-10-01-herbarium_files/project.jpg&#34; alt=&#34;&#34; /&gt;&lt;img &lt;img src=&#34;./project/2018-10-01-herbarium_files/Plants.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;
- Test de commentaire&lt;/p&gt;
+ Test de commentaire voila&lt;/p&gt;
 </description>
     </item>
     
