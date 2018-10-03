@@ -14,6 +14,15 @@
     
     <item>
       <title>My project</title>
+      <link>/project/2018-10-01-herbarium/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2018-10-01-herbarium/</guid>
+      <description>Here I describe my project using Markdown formatting...</description>
+    </item>
+    
+    <item>
+      <title>My project</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       

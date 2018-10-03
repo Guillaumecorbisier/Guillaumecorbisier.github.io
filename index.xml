@@ -11,21 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Herbarium</title>
-      <link>/project/herbarium/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/herbarium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Post creation</title>
       <link>/post/post-creation/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/post-creation/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>My project</title>
+      <link>/project/2018-10-01-herbarium/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2018-10-01-herbarium/</guid>
+      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./project/2018-10-01-herbarium_files/project.jpg&#34; alt=&#34;teqthjvecfhjcvz&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
