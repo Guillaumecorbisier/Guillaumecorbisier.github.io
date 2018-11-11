@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/project/example-project/</loc>
-      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <loc>/post/albinism-what-is-this/</loc>
+      <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,8 +14,8 @@
     
     <url>
     
-      <loc>/post/post-creation/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <loc>/project/example-project/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -70,6 +70,14 @@
     
       <loc>/post/getting-started/</loc>
       <lastmod>2018-09-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2018-11-11-albinism-what-is-this/</loc>
     </url>
     
   
