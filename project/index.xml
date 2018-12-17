@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Guillaume Corbisier (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My project</title>
-      <link>/project/example-project/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
-    </item>
     
     <item>
       <title>Herbarium</title>
@@ -27,7 +18,7 @@
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/2018-10-01-herbarium/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>Plants is hard to determinate sometimes here is my herbarium to</description>
     </item>
     
   </channel>

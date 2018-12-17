@@ -11,22 +11,12 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
-      <link>/project/example-project/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Herbarium</title>
       <link>/project/2018-10-01-herbarium/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/2018-10-01-herbarium/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+      <description>&lt;p&gt;Plants is hard to determinate sometimes here is my herbarium to&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./project/2018-10-01-herbarium_files/Plants.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
@@ -83,7 +73,7 @@ Melanocytes make melanine in organites and melanosome are transfert in keratinoc
       <guid>/post/getting-started/</guid>
       <description>
 
-&lt;h1 id=&#34;genomic&#34;&gt;Genomic&lt;/h1&gt;
+&lt;h1 id=&#34;genetic&#34;&gt;Genetic&lt;/h1&gt;
 
 &lt;p&gt;Color blindness is a mutation that can cause ,like the name says, a malformation of the iris who is involve in colour perception. This anomaly is a modification on the X chromosm who are hedetary. The mutation is gived to the child like a typical recesive ill on the X chromosm. A male mutant can&#39;t give is anomaly to his son because he give Y chromosm to him. And a female affected by the ill will give it to his son 100% chance of time.Female people have less chance to be colorblind because they have 2 X chromosm and the mutation is recessive so all the parents need to carry the mutant X chromosm to have a colorblind daughter.&lt;/p&gt;
 
